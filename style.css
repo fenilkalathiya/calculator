@@ -1,0 +1,6 @@
+.mainClass { border: 1px solid #000000; width: 500px;}
+.mainClass h3 { text-align: center;}
+#answer { width: 450px; margin: 0 25px; padding: 10px 0; text-align: right;}
+.buttons { margin-top: 20px;width: 450px;margin-left: 30px;}
+.buttons button { width: 70px;margin: 5px 0;background-color: #ffffff; outline: none; border: 1px solid #000000; border-radius: 3px; padding: 5px 0;}
+#btn_equal { width: 144px;}
